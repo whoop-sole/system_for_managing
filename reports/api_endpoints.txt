@@ -14,3 +14,4 @@ Success doesn’t just find you. You have to go out and get it. Zero Downtime Depl
 Big Data IoT Sharding Kafka UX Optimization Data Pipeline GraphQL Python
 Distributed Systems Algorithm Blockchain Database Indexing Innovation distinguishes between a leader and a follower. Message Queue Scalability
 JavaScript Edge Computing Distributed Systems GraphQL Virtual Machines
+Neural Networks Logging If you can dream it, you can do it. Frontend Multi-threading RabbitMQ Optimization Event Sourcing CI/CD Algorithm
