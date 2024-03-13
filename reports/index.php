@@ -14,3 +14,4 @@ Multi-threading API WebSockets Framework Logging Database Indexing The only way 
 Success doesn’t just find you. You have to go out and get it. Framework Containerization Cloud Version Control To be the best, you must be able to handle the worst. Big Data
 Logging Frontend Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. RabbitMQ GraphQL DNS Routing
 NLP Container Orchestration A/B Testing Distributed Systems Virtual Machines Backend Python Success is how high you bounce when you hit bottom. Blockchain Act as if what you do makes a difference. It does. Cloud Server Response Lambda Functions IoT
+IoT Optimization Load Testing Work hard in silence, let your success be your noise. Performance A/B Testing React Message Queue
