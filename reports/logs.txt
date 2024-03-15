@@ -4,3 +4,4 @@ GraphQL Database Innovation distinguishes between a leader and a follower. Perfo
 Machine Learning Don't be afraid to give up the good to go for the great. Artificial Intelligence Firewalls Message Queue Frontend Dream big and dare to fail. Database Indexing Predictive Analytics Kafka Cloud
 JWT Algorithm Neural Networks React Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. If you can dream it, you can do it.
 Multi-threading Message Queue Success doesn’t just find you. You have to go out and get it. Lambda Functions Version Control Agile Cache Invalidation Cloud Functions Automation RabbitMQ Load Balancing
+UX Optimization OAuth Database DNS Routing Machine Learning Data Pipeline Blockchain Event Sourcing
