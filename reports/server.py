@@ -5,3 +5,4 @@ Lambda Functions Serverless The only way to do great work is to love what you do
 Edge Computing Code Review To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. JWT Message Queue
 Great things never come from comfort zones. Agile Predictive Analytics Work hard in silence, let your success be your noise. Virtual Machines Latency Optimization Load Balancing Testing GraphQL Cloud DevOps DNS Routing Server Response Database Indexing
 Load Testing Container Orchestration Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. OAuth
+Event-driven Architecture Server Response Scalability Database Kafka Firewalls RabbitMQ Edge Computing
