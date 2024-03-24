@@ -8,3 +8,4 @@ Latency Optimization Frontend Performance Happiness is not something ready made.
 NLP Success usually comes to those who are too busy to be looking for it. Cloud Functions Success is how high you bounce when you hit bottom. Sharding Neural Networks
 Serverless Database Indexing Artificial Intelligence Logging Quantum Computing Algorithm Scalability Stay hungry, stay foolish. Data Science Python Monitoring Difficult roads often lead to beautiful destinations. JWT
 Microservices Agile To be the best, you must be able to handle the worst. Edge Computing JWT If you can dream it, you can do it. DNS Routing Message Queue
+Logging I find that the harder I work, the more luck I seem to have. Cloud Functions Replica Set UX Optimization
