@@ -13,3 +13,4 @@ Latency Optimization Happiness is not something ready made. It comes from your o
 Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Server Response Replica Set WebSockets Multi-threading Latency Optimization CI/CD Agile Happiness is not something ready made. It comes from your own actions. API Gateway Lambda Functions Virtual Machines
 Big Data IoT Sharding Kafka UX Optimization Data Pipeline GraphQL Python
 Distributed Systems Algorithm Blockchain Database Indexing Innovation distinguishes between a leader and a follower. Message Queue Scalability
+JavaScript Edge Computing Distributed Systems GraphQL Virtual Machines
