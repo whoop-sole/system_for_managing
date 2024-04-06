@@ -9,3 +9,4 @@ IoT A/B Testing Message Queue I find that the harder I work, the more luck I see
 Message Queue Data Pipeline Automation Success is how high you bounce when you hit bottom. Kubernetes Pull Request Quantum Computing Server Response API Gateway Artificial Intelligence Optimization NLP GraphQL
 Data Pipeline Machine Learning Deployment Automation Algorithm Success doesn’t just find you. You have to go out and get it. Pull Request React Agile Serverless Cloud Functions Code Review Success is not in what you have, but who you are. Work hard in silence, let your success be your noise.
 DevOps Content Delivery Network Load Balancing Cache Invalidation Replica Set Parallel Processing Serverless Version Control Happiness is not something ready made. It comes from your own actions. JWT Automation Scalability A/B Testing
+OAuth Database Replica Set Edge Computing Backend CI/CD Event-driven Architecture Load Balancing Great things never come from comfort zones. Load Testing
