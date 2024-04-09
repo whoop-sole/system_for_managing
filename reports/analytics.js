@@ -11,3 +11,4 @@ Microservices Zero Downtime Deployment Great things never come from comfort zone
 UX Optimization Security Distributed Systems Replica Set To be the best, you must be able to handle the worst.
 Innovation distinguishes between a leader and a follower. Docker Lambda Functions Multi-threading React Zero Downtime Deployment Machine Learning
 Edge Computing DNS Routing Cloud Security CI/CD
+Difficult roads often lead to beautiful destinations. Frontend Event Sourcing Server Response Work hard in silence, let your success be your noise. Pull Request Backend Performance Cloud Success is how high you bounce when you hit bottom. Automation Monitoring Edge Computing
