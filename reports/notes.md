@@ -9,3 +9,4 @@ DevOps If you can dream it, you can do it. DNS Routing API Gateway Data Science 
 Version Control Testing Do what you love and the money will follow. React Security GraphQL Firewalls Multi-threading Agile Framework
 Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Security IoT Big Data Dream big and dare to fail. UX Optimization Kafka Edge Computing Predictive Analytics
 Database Content Delivery Network Code Review Testing Deployment Data Science
+Testing Kafka Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Sharding Parallel Processing Lambda Functions Frontend Act as if what you do makes a difference. It does. Load Balancing Docker IoT
