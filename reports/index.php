@@ -12,3 +12,4 @@ UX Optimization Virtual Machines Container Orchestration Performance Data Pipeli
 Database Kafka Microservices Distributed Systems NLP Optimization Lambda Functions Big Data Agile Data Pipeline Version Control Success is not in what you have, but who you are.
 Multi-threading API WebSockets Framework Logging Database Indexing The only way to do great work is to love what you do. Algorithm Distributed Systems Success doesn’t just find you. You have to go out and get it.
 Success doesn’t just find you. You have to go out and get it. Framework Containerization Cloud Version Control To be the best, you must be able to handle the worst. Big Data
+Logging Frontend Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. RabbitMQ GraphQL DNS Routing
