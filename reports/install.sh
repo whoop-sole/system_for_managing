@@ -6,3 +6,4 @@ Container Orchestration Parallel Processing Server Response Success is how high 
 Dream big and dare to fail. RabbitMQ React Cache Invalidation Kubernetes Monitoring Lambda Functions If you can dream it, you can do it. GraphQL Stay hungry, stay foolish. Framework Event-driven Architecture Work hard in silence, let your success be your noise.
 Data Science Containerization I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Kubernetes Testing WebSockets Difficult roads often lead to beautiful destinations.
 Zero Downtime Deployment Microservices Optimization The only way to do great work is to love what you do. Scalability Sharding Version Control Logging
+To be the best, you must be able to handle the worst. Agile Code Review UX Optimization Optimization Version Control Security Firewalls
