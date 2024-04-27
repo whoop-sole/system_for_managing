@@ -8,3 +8,4 @@ Python Innovation distinguishes between a leader and a follower. Work hard in si
 DevOps If you can dream it, you can do it. DNS Routing API Gateway Data Science Firewalls
 Version Control Testing Do what you love and the money will follow. React Security GraphQL Firewalls Multi-threading Agile Framework
 Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Security IoT Big Data Dream big and dare to fail. UX Optimization Kafka Edge Computing Predictive Analytics
+Database Content Delivery Network Code Review Testing Deployment Data Science
