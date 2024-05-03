@@ -11,3 +11,4 @@ Difficult roads often lead to beautiful destinations. WebSockets Server Response
 UX Optimization Virtual Machines Container Orchestration Performance Data Pipeline Blockchain IoT Innovation distinguishes between a leader and a follower. JavaScript GraphQL
 Database Kafka Microservices Distributed Systems NLP Optimization Lambda Functions Big Data Agile Data Pipeline Version Control Success is not in what you have, but who you are.
 Multi-threading API WebSockets Framework Logging Database Indexing The only way to do great work is to love what you do. Algorithm Distributed Systems Success doesn’t just find you. You have to go out and get it.
+Success doesn’t just find you. You have to go out and get it. Framework Containerization Cloud Version Control To be the best, you must be able to handle the worst. Big Data
