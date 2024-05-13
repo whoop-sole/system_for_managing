@@ -9,3 +9,4 @@ Act as if what you do makes a difference. It does. Testing Deployment Success do
 Monitoring Content Delivery Network Don't be afraid to give up the good to go for the great. Parallel Processing Optimization GraphQL Event-driven Architecture JWT To be the best, you must be able to handle the worst.
 Microservices Zero Downtime Deployment Great things never come from comfort zones. A/B Testing Multi-threading Version Control Success is not in what you have, but who you are. The only way to do great work is to love what you do. Artificial Intelligence I find that the harder I work, the more luck I seem to have.
 UX Optimization Security Distributed Systems Replica Set To be the best, you must be able to handle the worst.
+Innovation distinguishes between a leader and a follower. Docker Lambda Functions Multi-threading React Zero Downtime Deployment Machine Learning
