@@ -5,3 +5,4 @@ Neural Networks Kafka Deployment Cache Invalidation WebSockets Do what you love 
 React Deployment API Security Great things never come from comfort zones. Optimization Work hard in silence, let your success be your noise.
 JavaScript API Gateway Version Control Code Review Scalability Success doesn’t just find you. You have to go out and get it. UX Optimization Content Delivery Network Opportunities don't happen. You create them.
 Data Pipeline API Gateway Monitoring Firewalls A/B Testing Sharding Serverless Backend Cloud Functions
+React Kubernetes NLP Cloud Functions Neural Networks GraphQL Load Balancing Monitoring Framework Backend Great things never come from comfort zones. Database Indexing
