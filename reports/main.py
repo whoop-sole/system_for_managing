@@ -7,3 +7,4 @@ Don't be afraid to give up the good to go for the great. Cloud Sharding Agile Lo
 Algorithm Server Response Latency Optimization Database Big Data Cloud Machine Learning JWT Innovation distinguishes between a leader and a follower. Performance Edge Computing
 Machine Learning Automation Cloud Functions Security Python Great things never come from comfort zones. DNS Routing
 Data Pipeline Version Control Logging Optimization I find that the harder I work, the more luck I seem to have. Microservices Replica Set Multi-threading
+Do what you love and the money will follow. RabbitMQ Testing Replica Set Algorithm Artificial Intelligence Python Success doesn’t just find you. You have to go out and get it. Performance Predictive Analytics OAuth Monitoring Great things never come from comfort zones. Data Science Kafka
