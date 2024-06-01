@@ -9,3 +9,4 @@ CI/CD Work hard in silence, let your success be your noise. Simplicity is the ul
 Blockchain Artificial Intelligence Agile Database Machine Learning
 Difficult roads often lead to beautiful destinations. WebSockets Server Response JavaScript Containerization Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Kubernetes I find that the harder I work, the more luck I seem to have. Message Queue Automation
 UX Optimization Virtual Machines Container Orchestration Performance Data Pipeline Blockchain IoT Innovation distinguishes between a leader and a follower. JavaScript GraphQL
+Database Kafka Microservices Distributed Systems NLP Optimization Lambda Functions Big Data Agile Data Pipeline Version Control Success is not in what you have, but who you are.

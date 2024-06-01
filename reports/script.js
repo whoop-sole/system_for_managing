@@ -5,3 +5,4 @@ Act as if what you do makes a difference. It does. If you can dream it, you can 
 Dream big and dare to fail. Database Security DevOps Kafka API Gateway RabbitMQ Sharding Kubernetes Algorithm Don't be afraid to give up the good to go for the great. Pull Request
 Firewalls Optimization Load Testing Dream big and dare to fail. Container Orchestration Frontend Edge Computing RabbitMQ Data Pipeline Testing React Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it.
 Latency Optimization Frontend Performance Happiness is not something ready made. It comes from your own actions. Replica Set Logging DevOps Distributed Systems Kubernetes
+NLP Success usually comes to those who are too busy to be looking for it. Cloud Functions Success is how high you bounce when you hit bottom. Sharding Neural Networks
