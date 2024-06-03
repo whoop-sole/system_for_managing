@@ -10,3 +10,4 @@ Version Control Lambda Functions Simplicity is the ultimate sophistication. Diff
 Load Balancing IoT Blockchain Serverless Firewalls Container Orchestration GraphQL API Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Framework Server Response Event-driven Architecture
 GraphQL Data Pipeline Monitoring Firewalls DNS Routing Latency Optimization Logging CI/CD
 Latency Optimization Happiness is not something ready made. It comes from your own actions. Backend Neural Networks Database Edge Computing Do what you love and the money will follow. Cache Invalidation Great things never come from comfort zones. Serverless DevOps
+Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Server Response Replica Set WebSockets Multi-threading Latency Optimization CI/CD Agile Happiness is not something ready made. It comes from your own actions. API Gateway Lambda Functions Virtual Machines
