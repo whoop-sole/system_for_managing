@@ -4,3 +4,4 @@ RabbitMQ Performance WebSockets Database Data Pipeline Success is not in what yo
 Machine Learning Simplicity is the ultimate sophistication. Serverless Multi-threading Optimization Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Cache Invalidation
 Container Orchestration Parallel Processing Server Response Success is how high you bounce when you hit bottom. Latency Optimization
 Dream big and dare to fail. RabbitMQ React Cache Invalidation Kubernetes Monitoring Lambda Functions If you can dream it, you can do it. GraphQL Stay hungry, stay foolish. Framework Event-driven Architecture Work hard in silence, let your success be your noise.
+Data Science Containerization I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Kubernetes Testing WebSockets Difficult roads often lead to beautiful destinations.
