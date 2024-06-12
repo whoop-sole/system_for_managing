@@ -6,3 +6,4 @@ JavaScript Docker Happiness is not something ready made. It comes from your own 
 Performance Server Response Kubernetes Distributed Systems Containerization Difficult roads often lead to beautiful destinations. Docker
 Frontend Work hard in silence, let your success be your noise. Predictive Analytics API Zero Downtime Deployment NLP Cache Invalidation
 Neural Networks Sharding Message Queue Zero Downtime Deployment Success is not in what you have, but who you are. Agile Artificial Intelligence Firewalls Kafka Containerization Parallel Processing
+Innovation distinguishes between a leader and a follower. Deployment WebSockets Security Scalability Container Orchestration Great things never come from comfort zones. Serverless OAuth Don't be afraid to give up the good to go for the great. A/B Testing
