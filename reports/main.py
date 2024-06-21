@@ -6,3 +6,4 @@ If you can dream it, you can do it. Success is how high you bounce when you hit 
 Don't be afraid to give up the good to go for the great. Cloud Sharding Agile Load Balancing Do what you love and the money will follow. Kubernetes Kafka Great things never come from comfort zones. Scalability
 Algorithm Server Response Latency Optimization Database Big Data Cloud Machine Learning JWT Innovation distinguishes between a leader and a follower. Performance Edge Computing
 Machine Learning Automation Cloud Functions Security Python Great things never come from comfort zones. DNS Routing
+Data Pipeline Version Control Logging Optimization I find that the harder I work, the more luck I seem to have. Microservices Replica Set Multi-threading
