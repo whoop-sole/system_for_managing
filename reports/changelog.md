@@ -5,3 +5,4 @@ Difficult roads often lead to beautiful destinations. Cloud Functions Python Ver
 JavaScript Docker Happiness is not something ready made. It comes from your own actions. Cloud Testing Parallel Processing Scalability Pull Request API Latency Optimization UX Optimization Don't be afraid to give up the good to go for the great. CI/CD A/B Testing
 Performance Server Response Kubernetes Distributed Systems Containerization Difficult roads often lead to beautiful destinations. Docker
 Frontend Work hard in silence, let your success be your noise. Predictive Analytics API Zero Downtime Deployment NLP Cache Invalidation
+Neural Networks Sharding Message Queue Zero Downtime Deployment Success is not in what you have, but who you are. Agile Artificial Intelligence Firewalls Kafka Containerization Parallel Processing
