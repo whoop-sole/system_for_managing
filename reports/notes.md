@@ -3,3 +3,4 @@ API Gateway WebSockets DNS Routing Kafka Virtual Machines Scalability Neural Net
 The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Virtual Machines Do what you love and the money will follow. Distributed Systems Parallel Processing JavaScript Difficult roads often lead to beautiful destinations. Lambda Functions IoT Cloud Functions Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Logging Cloud
 Difficult roads often lead to beautiful destinations. Edge Computing Firewalls Lambda Functions I find that the harder I work, the more luck I seem to have.
 Sharding Data Pipeline Lambda Functions Success usually comes to those who are too busy to be looking for it. RabbitMQ Success is not in what you have, but who you are. Container Orchestration Event-driven Architecture
+IoT Database Quantum Computing Latency Optimization Sharding React Event-driven Architecture DevOps Frontend
