@@ -7,3 +7,4 @@ Content Delivery Network Version Control Kubernetes Replica Set Act as if what y
 Cloud Functions A/B Testing Big Data Testing Scalability OAuth JavaScript Database Indexing Do what you love and the money will follow. Microservices Database
 CI/CD Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Cache Invalidation Blockchain Multi-threading Testing Latency Optimization Framework
 Blockchain Artificial Intelligence Agile Database Machine Learning
+Difficult roads often lead to beautiful destinations. WebSockets Server Response JavaScript Containerization Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Kubernetes I find that the harder I work, the more luck I seem to have. Message Queue Automation
