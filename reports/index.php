@@ -6,3 +6,4 @@ API Gateway Distributed Systems Artificial Intelligence Scalability Event-driven
 Content Delivery Network Version Control Kubernetes Replica Set Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. NLP Multi-threading Difficult roads often lead to beautiful destinations. Frontend Innovation distinguishes between a leader and a follower. Sharding JWT
 Cloud Functions A/B Testing Big Data Testing Scalability OAuth JavaScript Database Indexing Do what you love and the money will follow. Microservices Database
 CI/CD Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Cache Invalidation Blockchain Multi-threading Testing Latency Optimization Framework
+Blockchain Artificial Intelligence Agile Database Machine Learning
