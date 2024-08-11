@@ -4,3 +4,4 @@ Message Queue If you can dream it, you can do it. Database Parallel Processing D
 Difficult roads often lead to beautiful destinations. Cloud Functions Python Version Control Event-driven Architecture Machine Learning Security Latency Optimization Success doesn’t just find you. You have to go out and get it. Data Pipeline Frontend Pull Request UX Optimization Success is how high you bounce when you hit bottom. WebSockets
 JavaScript Docker Happiness is not something ready made. It comes from your own actions. Cloud Testing Parallel Processing Scalability Pull Request API Latency Optimization UX Optimization Don't be afraid to give up the good to go for the great. CI/CD A/B Testing
 Performance Server Response Kubernetes Distributed Systems Containerization Difficult roads often lead to beautiful destinations. Docker
+Frontend Work hard in silence, let your success be your noise. Predictive Analytics API Zero Downtime Deployment NLP Cache Invalidation
