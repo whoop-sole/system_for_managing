@@ -5,3 +5,4 @@ API Security Monitoring Load Testing Latency Optimization Performance Data Pipel
 Server Response To be the best, you must be able to handle the worst. Load Testing Do what you love and the money will follow. Opportunities don't happen. You create them. Latency Optimization
 Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. Container Orchestration A/B Testing Cloud Predictive Analytics
 Cache Invalidation To be the best, you must be able to handle the worst. Blockchain Neural Networks JWT A/B Testing Parallel Processing Security Success doesn’t just find you. You have to go out and get it. Distributed Systems
+IoT A/B Testing Message Queue I find that the harder I work, the more luck I seem to have. GraphQL Replica Set Load Testing Database Microservices Do what you love and the money will follow. Blockchain Success is not in what you have, but who you are. Frontend Python
