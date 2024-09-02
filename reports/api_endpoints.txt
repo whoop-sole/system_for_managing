@@ -4,3 +4,4 @@ Logging A/B Testing The only way to do great work is to love what you do. Succes
 IoT Monitoring Parallel Processing Scalability Load Balancing JavaScript
 Performance DNS Routing Testing Latency Optimization Neural Networks NLP React API Gateway Innovation distinguishes between a leader and a follower. JWT Message Queue Deployment
 Big Data Edge Computing WebSockets Monitoring If you can dream it, you can do it. Framework IoT OAuth Simplicity is the ultimate sophistication. Database Do what you love and the money will follow. Kafka Success is how high you bounce when you hit bottom.
+Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Monitoring Kubernetes If you can dream it, you can do it. Containerization I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Firewalls Big Data Success is how high you bounce when you hit bottom. Multi-threading Data Science
