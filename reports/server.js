@@ -6,3 +6,4 @@ Great things never come from comfort zones. Latency Optimization Edge Computing 
 Kubernetes JWT Monitoring Predictive Analytics Load Testing Great things never come from comfort zones. OAuth Stay hungry, stay foolish.
 API Sharding Serverless To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. Blockchain Dream big and dare to fail. Work hard in silence, let your success be your noise. Data Pipeline Edge Computing JavaScript Optimization
 NLP Cache Invalidation Optimization Big Data Work hard in silence, let your success be your noise. Kubernetes Logging API Neural Networks Framework Message Queue Parallel Processing Quantum Computing Don't be afraid to give up the good to go for the great.
+Backend Serverless Replica Set Cloud Functions Work hard in silence, let your success be your noise. Optimization Pull Request Stay hungry, stay foolish. Frontend Load Balancing UX Optimization
