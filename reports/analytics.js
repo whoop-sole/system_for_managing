@@ -3,3 +3,4 @@ Monitoring Microservices Dream big and dare to fail. Big Data Blockchain API Neu
 Kafka Event-driven Architecture Database Security Neural Networks
 Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Serverless Event Sourcing To be the best, you must be able to handle the worst. Load Testing IoT Edge Computing
 Load Balancing Content Delivery Network Event-driven Architecture Database Data Pipeline Blockchain Edge Computing Simplicity is the ultimate sophistication. JavaScript Deployment Event Sourcing Scalability Success is not in what you have, but who you are. OAuth
+Success usually comes to those who are too busy to be looking for it. Cloud Optimization Kafka IoT Artificial Intelligence DNS Routing Stay hungry, stay foolish. Load Testing Event Sourcing Serverless Deployment Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great.
