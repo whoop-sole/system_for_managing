@@ -2,3 +2,4 @@ Success usually comes to those who are too busy to be looking for it. To be the 
 Stay hungry, stay foolish. Optimization Firewalls Python Database Indexing Success is how high you bounce when you hit bottom. CI/CD Cloud Don't be afraid to give up the good to go for the great. Database Server Response Machine Learning Success doesn’t just find you. You have to go out and get it. Multi-threading Work hard in silence, let your success be your noise.
 Scalability API Gateway Zero Downtime Deployment Data Science NLP Edge Computing Great things never come from comfort zones.
 Act as if what you do makes a difference. It does. If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. API Gateway Backend JavaScript Version Control
+Dream big and dare to fail. Database Security DevOps Kafka API Gateway RabbitMQ Sharding Kubernetes Algorithm Don't be afraid to give up the good to go for the great. Pull Request
