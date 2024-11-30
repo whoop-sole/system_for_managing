@@ -1,3 +1,4 @@
 Sharding Container Orchestration Work hard in silence, let your success be your noise. Neural Networks The only way to do great work is to love what you do. Algorithm Event-driven Architecture Great things never come from comfort zones.
 Act as if what you do makes a difference. It does. Edge Computing Event-driven Architecture React Happiness is not something ready made. It comes from your own actions. Agile RabbitMQ Firewalls
 Logging A/B Testing The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Kafka Performance Don't be afraid to give up the good to go for the great. Cloud Parallel Processing
+IoT Monitoring Parallel Processing Scalability Load Balancing JavaScript
