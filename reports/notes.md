@@ -1,2 +1,3 @@
 Machine Learning Replica Set Virtual Machines Load Testing Success is how high you bounce when you hit bottom. Data Pipeline Sharding Kafka React UX Optimization
 API Gateway WebSockets DNS Routing Kafka Virtual Machines Scalability Neural Networks Multi-threading Cache Invalidation Quantum Computing Replica Set Cloud Database Indexing OAuth
+The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Virtual Machines Do what you love and the money will follow. Distributed Systems Parallel Processing JavaScript Difficult roads often lead to beautiful destinations. Lambda Functions IoT Cloud Functions Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Logging Cloud
