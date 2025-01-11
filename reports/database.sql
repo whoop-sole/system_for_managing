@@ -1,2 +1,3 @@
 Serverless Optimization Difficult roads often lead to beautiful destinations. Lambda Functions Quantum Computing Artificial Intelligence WebSockets Frontend Sharding Testing Innovation distinguishes between a leader and a follower. A/B Testing CI/CD Event-driven Architecture Replica Set
 Database IoT React JWT Act as if what you do makes a difference. It does. Event-driven Architecture Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower.
+JWT Lambda Functions Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it.
